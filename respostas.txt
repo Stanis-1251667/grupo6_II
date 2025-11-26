@@ -5,3 +5,5 @@ B.	Duas vantagens dos sistemas de controlos de versões são:
 C.	Os 3 estados em que pode estar um ficheiro são unstaged, staged, commited.
 
 H - 
+
+J - O comando vai buscar o caminho do ficheiro
