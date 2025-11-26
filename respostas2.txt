@@ -1,1 +1,3 @@
 F - O ReadMe é um ficheiro em que estão escritas informações sobre o projeto no repositório
+
+G - Merge é quando se juntam Branches com código diferente para o principal
