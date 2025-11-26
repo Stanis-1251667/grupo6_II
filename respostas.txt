@@ -1,0 +1,3 @@
+B.	Duas vantagens dos sistemas de controlos de versões são:
+	- a capacidade de ter um uma versão diferente do programa em cada uma das máquinas dos integrantes e on-line, facilita para não haver ter vesões do mesmo código a subrepor-se;
+	- possibilidade de vários programadores estarem a trabalhar no mesmo programa sem escrever por cima do código dos outros. 
