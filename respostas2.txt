@@ -1,0 +1,1 @@
+F - O ReadMe é um ficheiro em que estão escritas informações sobre o projeto no repositório
