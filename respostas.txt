@@ -3,3 +3,5 @@ B.	Duas vantagens dos sistemas de controlos de versões são:
 	- possibilidade de vários programadores estarem a trabalhar no mesmo programa sem escrever por cima do código dos outros. 
 	
 C.	Os 3 estados em que pode estar um ficheiro são unstaged, staged, commited.
+
+H - 
